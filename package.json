@@ -18,6 +18,7 @@
   	"passport-local": "*",
   	"connect-ensure-login": "*",
   	"pg": "*",
-  	"sequelize": "*"
+  	"sequelize": "*",
+	"bcrypt-nodejs": "*"
   }
 }

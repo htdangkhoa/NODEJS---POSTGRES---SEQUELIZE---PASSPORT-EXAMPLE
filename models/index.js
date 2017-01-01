@@ -8,7 +8,8 @@ User.sync({force: true})
 .then(function(){
 	return User.create({
 		firstName: 'Dang',
-		lastName: 'Khoa'
+		lastName: 'Khoa',
+		password: User.generateHash("1")
 	});
 });
 
