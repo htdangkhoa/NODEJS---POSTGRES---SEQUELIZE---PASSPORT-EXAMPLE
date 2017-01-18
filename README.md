@@ -7,7 +7,7 @@ Working api NodeJS Express, Postgres, Sequelize and Passport
 
 Project requires [Node.js](https://nodejs.org/) v4+ to run.
 
-Install the dependencies.
+### Install the dependencies.
 
 ```sh
 $ npm install
